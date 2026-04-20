@@ -52,6 +52,16 @@ Even well-implemented models cannot achieve high accuracy if key explanatory var
 
 ---
 
+## Application
+
+A simple application was developed to demonstrate how the model can be used in practice.
+
+You can explore it here:
+
+https://github.com/LeoTrevi68/machine-failure-app
+
+---
+
 ## Dataset
 
 AI4I 2020 Predictive Maintenance Dataset  
