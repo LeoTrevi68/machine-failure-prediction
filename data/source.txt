@@ -1,1 +1,8 @@
+Dataset Source
 
+This project uses the AI4I 2020 Predictive Maintenance Dataset.
+
+Source:
+https://www.kaggle.com/datasets/shivamb/ai4i-2020-predictive-maintenance-dataset
+
+The dataset is not included in this repository due to size and licensing considerations.
